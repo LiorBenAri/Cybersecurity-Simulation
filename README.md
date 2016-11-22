@@ -17,4 +17,4 @@ will occur according to a pre-determined set of rules".
 # Main Features
 Object-oriented programing, STL-based data structures, memory management, Boost library.
 
-**Installed Boost library is needed in order to run the project.**
+***Installed Boost library is needed in order to run the project.***
