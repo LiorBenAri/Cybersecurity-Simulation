@@ -3,6 +3,7 @@ Project in University's Systems Programming course.
 
 # Main Idea
 From the assignment instructions:
+
 "In this assignment you will simulate an exciting cyber-battle
 between vicious cyber-worms, malicious programs that wreak
 havoc online spreading between innocent computers via network
