@@ -14,5 +14,5 @@ The simulation will run in time-steps, each time-step simulates
 the events occurring during one day. During each time-step actions
 will occur according to a pre-determined set of rules".
 
-# Main Features:
+# Main Features
 Object-oriented programing, STL-based data structures, memory management, Boost library.
